@@ -1,0 +1,163 @@
+{
+  "personalInfo": {
+    "name": "Tabish Arshad",
+    "role": "AI Engineer",
+    "bio": "Exploring the Digital Universe & Building Immersive Experiences",
+    "cvUrl": "/Tabish Arshad - AI Engineer Resume.pdf",
+    "email": "tabish.arshad14@gmail.com",
+    "socials": {
+      "github": "https://github.com/tabish-arshad",
+      "linkedin": "https://www.linkedin.com/in/tabish-arshad-061535281/",
+      "twitter": "https://twitter.com/tabisharshad"
+    }
+  },
+  "projects": [
+    {
+      "id": "project-nebula",
+      "title": "Project Nebula",
+      "description": "A 3D space exploration game built with Three.js.",
+      "content": "Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser. Project Nebula is an immersive 3D space exploration game that leverages the power of Three.js and custom GLSL shaders to create a cinematic gaming experience in the browser.",
+      "technologies": [
+        "Three.js",
+        "WebGL",
+        "GSAP",
+        "GLSL"
+      ],
+      "features": [
+        "Procedural starfields",
+        "Physics-based camera",
+        "Dynamic lighting"
+      ],
+      "screenshots": [
+        {
+          "url": "/projects/nebula-1.jpg",
+          "caption": "Deep space navigation"
+        },
+        {
+          "url": "/projects/nebula-2.jpg",
+          "caption": "Nebula cloud rendering"
+        }
+      ],
+      "links": {
+        "view": "#",
+        "github": "#"
+      },
+      "role": "Lead Developer & Technical Artist",
+      "duration": "3 Months",
+      "client": "Personal Project",
+      "category": "Game Development"
+    },
+    {
+      "id": "echo-ui",
+      "title": "Echo UI",
+      "description": "A futuristic UI component library for React.",
+      "content": "Echo UI is a collection of high-performance, accessible React components designed for building sci-fi and data-intensive user interfaces.",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Framer Motion",
+        "TypeScript"
+      ],
+      "features": [
+        "Modular grid system",
+        "Glassmorphism components",
+        "Accessible themes"
+      ],
+      "screenshots": [
+        {
+          "url": "/projects/echo-1.jpg",
+          "caption": "Dashboard template"
+        },
+        {
+          "url": "/projects/echo-2.jpg",
+          "caption": "Data visualization"
+        }
+      ],
+      "links": {
+        "view": "#",
+        "github": "#"
+      },
+      "role": "Frontend Architect",
+      "duration": "5 Months",
+      "client": "Open Source",
+      "category": "Web Components"
+    },
+    {
+      "id": "virtuoso",
+      "title": "Virtuoso",
+      "description": "VR music visualization experience.",
+      "content": "Virtuoso is a virtual reality application that transforms live music into dynamic visual environments built with WebXR and Three.js.",
+      "technologies": [
+        "WebXR",
+        "Three.js",
+        "Web Audio API",
+        "Svelte"
+      ],
+      "features": [
+        "Real-time audio analysis",
+        "Immersive VR environments",
+        "Interactive geometry"
+      ],
+      "screenshots": [
+        {
+          "url": "/projects/virtuoso-1.jpg",
+          "caption": "VR environment"
+        }
+      ],
+      "links": {
+        "view": "#",
+        "github": "#"
+      },
+      "role": "UX/UI Designer & VR Developer",
+      "duration": "4 Months",
+      "client": "Experimental Labs",
+      "category": "Virtual Reality"
+    },
+    {
+      "id": "proj-1771326976240",
+      "title": "New Mission",
+      "description": "Quick summary, Back to Universe Back to Universe Back to Universe Back to Universe",
+      "content": "Detailed mission technicals...",
+      "technologies": [
+        "tech"
+      ],
+      "features": [
+        "responsive"
+      ],
+      "screenshots": [],
+      "links": {
+        "view": "#",
+        "github": "#",
+        "design": "#"
+      },
+      "role": "Developer",
+      "duration": "3-Month's",
+      "client": "Confidential",
+      "category": "Software Engineering"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "creative-portfolio",
+      "title": "Best Creative Portfolio 2024",
+      "provider": "Web Design Awards",
+      "date": "2024",
+      "icon": "🏆"
+    },
+    {
+      "id": "aws-architect",
+      "title": "AWS Certified Solutions Architect",
+      "provider": "Amazon Web Services",
+      "date": "2023",
+      "icon": "📜",
+      "badge": "/badges/aws-architect.png"
+    },
+    {
+      "id": "hackathon-winner",
+      "title": "1st Place - Global Web3 Hackathon",
+      "provider": "Web3 Foundation",
+      "date": "2023",
+      "icon": "🥇"
+    }
+  ]
+}
